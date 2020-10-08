@@ -2,5 +2,5 @@
 def display_rainbow(arg)
  colors = []
  colors << arg
- puts colors
+ print colors
 end
